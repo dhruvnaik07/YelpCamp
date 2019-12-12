@@ -1,6 +1,6 @@
 # YelpCamp
 
-## Website-Link
+## Website Link
 
 https://serene-temple-38588.herokuapp.com/
 
